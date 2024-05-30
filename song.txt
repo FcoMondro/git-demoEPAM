@@ -12,5 +12,4 @@ La chona!
 We will resolve a conflict
 
 Here it is the conflict!!!! >:C
-new commit for the rebase 1
-this will be the new base
+Restart
