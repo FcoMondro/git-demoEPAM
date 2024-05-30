@@ -13,3 +13,5 @@ We will resolve a conflict
 
 Here it is the conflict!!!! >:C
 Restart
+
+This is the start of a new feature
